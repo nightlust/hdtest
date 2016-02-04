@@ -1,4 +1,4 @@
-Example of Jenkins PHP CI for Connexion Point Development
+Example of Jenkins PHP CI for Development
 
 The structure of your project should be as follows:
 
@@ -16,7 +16,7 @@ README              (This file)
 
 Connection Point PEAR Channel
 ==================================================================
-jenkins-dev.connexionpoint.com
+divisionlinux.hd.net
 
 
 Recommended IDE's
