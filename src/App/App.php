@@ -4,7 +4,7 @@
  * 
  * PHP version 5
  *
- * @category Cxptest_CI
+ * @category HDtest_CI
  * @package  App
  * @author   Mike Hudson <mhudson@connexionpoint.com>
  * @license  http://mhudson-cxp.github.com/ Apache License 2.0
