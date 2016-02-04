@@ -38,7 +38,7 @@ class App
 ?>
 <HTML>
     <HEAD>
-        <TITLE>cxptest</TITLE>
+        <TITLE>hdtest</TITLE>
         <script>
             function startTime()
                 {
@@ -65,7 +65,7 @@ class App
         </script>
     </HEAD>
     <BODY onload="startTime()">
-        <FONT COLOR="red">cxptest</FONT> PHP Application<BR><BR>
+        <FONT COLOR="red">hdtest</FONT> PHP Application<BR><BR>
         <div id="txt"></div>
         <BR><BR><BR>
     </BODY>
